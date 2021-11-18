@@ -1,11 +1,11 @@
-"""Constants for integration_blueprint."""
+"""Constants for funbox6."""
 # Base component constants
-NAME = "Integration blueprint"
-DOMAIN = "integration_blueprint"
+NAME = "Orange Funbox6"
+DOMAIN = "funbox6"
 DOMAIN_DATA = f"{DOMAIN}_data"
 VERSION = "0.0.1"
 ATTRIBUTION = "Data provided by http://jsonplaceholder.typicode.com/"
-ISSUE_URL = "https://github.com/custom-components/integration_blueprint/issues"
+ISSUE_URL = "https://github.com/janekbaraniewski/hacs-orange-funbox6/issues"
 
 # Icons
 ICON = "mdi:format-quote-close"

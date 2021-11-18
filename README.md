@@ -1,3 +1,6 @@
+# HACS Orange Funbox6 integration
+
+
 # Notice
 
 The component and platforms in this repository are not meant to be used by a

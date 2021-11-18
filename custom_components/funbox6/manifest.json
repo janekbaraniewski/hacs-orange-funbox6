@@ -1,0 +1,12 @@
+{
+  "domain": "funbox6",
+  "name": "Orange Funbox6",
+  "documentation": "https://github.com/janekbaraniewski/hacs-orange-funbox6",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/janekbaraniewski/hacs-orange-funbox6/issues",
+  "version": "0.0.0",
+  "config_flow": true,
+  "codeowners": [
+    "@janekbaraniewski"
+  ]
+}
